@@ -1,5 +1,5 @@
-  <!-- CONTENT START -->
-  <section class="py-5 bg-light">
+<!-- CONTENT START -->
+<section class="py-5 bg-light">
 
 <!-- .container start -->
 <div class="container">
@@ -10,9 +10,9 @@
         <!-- .col start -->
         <div class="col-lg-3">
 
-          <?php 
-          include __DIR__ . './layout/menu.php';
-          ?>
+            <?php 
+                include __DIR__ . './layout/menu.php';
+            ?>
 
         </div>
         <!-- .col end -->
